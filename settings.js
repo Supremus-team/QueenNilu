@@ -1,4 +1,4 @@
-/*
+
 ===================================================================================================
 💃 𝗤𝘂𝗲𝗲𝗻 𝗡𝗶𝗹𝘂 𝗕𝗼𝘁 𝗠𝗱 💃
    ____                           _   _ _ _       
@@ -36,11 +36,11 @@ global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
 global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
 //👇 Your name
-global.ownernma =  'JANIYA' 
+global.ownernma =  '༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
+global.packname =  '༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆' 
 //👇 Sticker Author Name
-global.author =  '_JANIYA_' 
+global.author =  '_༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆_' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -93,7 +93,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["94767438882"]
+global.NO_BLOCK = ["+22372268134"]
 
 
 
@@ -105,8 +105,8 @@ global.NO_BLOCK = ["94767438882"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94767438882'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94767438882'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['+22372268134'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['+22372268134'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = '_Janiya_' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
